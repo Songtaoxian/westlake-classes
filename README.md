@@ -17,5 +17,9 @@ Chemistry:
 
     /Chinese to English
 
+France:
+
+    /duolingo-french-zh-study-guide
+    
 Digital Human:
 
