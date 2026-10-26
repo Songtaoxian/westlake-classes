@@ -20,6 +20,10 @@ Chemistry:
 France:
 
     /duolingo-french-zh-study-guide
+
+Photography:
+
+    /photography-bilingual-selfmade
     
 Digital Human:
 
