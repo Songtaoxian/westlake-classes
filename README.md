@@ -6,7 +6,8 @@ Content:
 
 Math：
 
-    /Probability and Statistics
+    /probability-introduction-reviewed
+    /probability-introduction-reviewed-linear-algebra-part
     /Discret Math
 
 Machine Learning:
